@@ -1,0 +1,11 @@
+header {
+	color: #33334d;
+	background-color: #c2c2d6
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 50px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
