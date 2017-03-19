@@ -63,6 +63,10 @@ footer {
   	color: black;
 }
 
+.p-italic {
+	font-style: italic;
+}
+
 @media only screen and (min-width: 1024px) {
 	.books {
 		text-align: center;
